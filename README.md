@@ -28,4 +28,4 @@ Email: canyasar924@gmail.com
 
 LinkedIn: linkedin.com/in/mertcanyasar
 
-Itch.io: https://mertcanyasar.itch.io/
+Itch.io: mertcanyasar.itch.io/
