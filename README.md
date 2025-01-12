@@ -26,6 +26,6 @@ I aim to make a difference in the world of technology. My goal is to bring creat
 
 Email: canyasar924@gmail.com
 
-<a href="linkedin.com/in/mertcanyasar">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mertcanyasar/">LinkedIn</a>
 
 <a href="https://mertcanyasar.itch.io/">Itch-io</a>
